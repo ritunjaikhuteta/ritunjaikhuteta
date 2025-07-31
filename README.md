@@ -21,12 +21,7 @@ I'm an enthusiastic learner diving deep into the world of **Data Structures & Al
 ```cpp
 Languages:   C++, Python (beginner), Markdown
 Tools:       VS Code, GCC/G++, Git & GitHub
-Learning:    DSA, basic web dev (soon), system design (later)## Hi there 👋
-
-<!--
-**ritunjaikhuteta/ritunjaikhuteta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Learning:    DSA, basic web dev (soon), system design
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
